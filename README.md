@@ -2,7 +2,13 @@
 
 > Get lottery winners
 
-Start application with Cargo
+## What is this?
+
+Command-line tool for getting how many lotto winners there are from the given guesses
+
+## How to
+
+start application with Cargo
 
 ```
 $ cargo run
